@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello world!");
+	printf("London is the capital of Great Britain!");
 	return 0;
 }

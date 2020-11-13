@@ -1,3 +1,4 @@
 dumbfile
 
-./a.out
+*.o
+*.out
